@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Jayson</h1>
 <h3 align="left">A full-stack web developer with 3 years of experience, driven by curiosity. I'm currently seeking new opportunities, to showcase my expertise while actively building personal projects.</h3>
+
 <hr>
+
 🔭 I’m currently working on **Wearship**
 
 🌱 I’m currently learning **ReactJS, Express, NodeJS, Solidity**
@@ -10,7 +12,9 @@
 💬 Ask me about **react, php, mysql, web development**
 
 📫 How to reach me **jaysonreales0@gmail.com**
+
 <hr>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaiseldev-sudo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiseldev-sudo&theme=github-dark-blue&hide_border=true" width="50%" />
