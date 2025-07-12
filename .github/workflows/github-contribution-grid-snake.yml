@@ -1,26 +1,30 @@
 name: Generate Snake
 
-# Controls when the action runs
 on:
   schedule:
     - cron: "0 0 * * *" # every day at midnight
-  workflow_dispatch: # allow manual trigger
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Generate the snake SVG
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: kaiseldev-sudo
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      # Push the SVG to the 'output' branch
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Ensure output folder exists
+        run: mkdir -p dist
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
