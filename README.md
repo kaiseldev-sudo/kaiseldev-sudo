@@ -22,13 +22,6 @@
 </div>
 
 <div align="center">
-
-## 🌐 Connect with Me 🍬
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jaysonreales18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayson-reales) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaysonreales17)
-
-</div>
-
-<div align="center">
   
 ## 💻 Tech Stack ⚡
 
@@ -37,6 +30,12 @@
 
 </div>
 
+<div align="center">
+
+## 🌐 Connect with Me 🍬
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jaysonreales18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technologyhell) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayson-reales) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaysonreales17)
+
+</div>
 <div align="center">
 
 ![Snake animation](https://github.com/kaiseldev-sudo/kaiseldev-sudo/blob/output/github-contribution-grid-snake.svg)
