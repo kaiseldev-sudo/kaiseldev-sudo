@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jayson</h1>
+<h1 align="left">Hi, I'm Jayson 👋</h1>
 <h3 align="justify">A full-stack web developer with 3 years of experience, driven by curiosity. I'm currently seeking new opportunities, to showcase my expertise while actively building personal projects.</h3>
 
 <hr>
