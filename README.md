@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jayson</h1>
 <h3 align="left">A passionate frontend developer from the Philippines</h3>
-
+[![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiseldev-sudo)](https://github.com/kaiseldev-sudo/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiseldev-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="kaiseldev-sudo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiseldev-sudo" alt="kaiseldev-sudo" /></a> </p>
