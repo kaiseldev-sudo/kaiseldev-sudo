@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jaysonreales17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaysonreales17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jayson-reales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayson-reales" height="30" width="40" /></a>
+<a href="https://twitter.com/jaysonreales17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaysonreales17" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jayson-reales" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayson-reales" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Tech Stack:</h3>
