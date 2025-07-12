@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiseldev-sudo&show_icons=true&locale=en&layout=compact" alt="kaiseldev-sudo" /></p>
 
-[![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiseldev-sudo&theme=github_dark&show_icons=true)](https://github.com/kaiseldev-sudo/github-readme-stats)
+[![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiseldev-sudo&theme=github_dark&show_icons=true&layout=compact)](https://github.com/kaiseldev-sudo/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiseldev-sudo&" alt="kaiseldev-sudo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiseldev-sudo&layout=compact&theme=github_dark&show_icons=true" alt="kaiseldev-sudo" /></p>
