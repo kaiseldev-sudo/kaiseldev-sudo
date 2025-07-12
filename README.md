@@ -16,9 +16,9 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaiseldev-sudo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaiseldev-sudo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="50%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiseldev-sudo&theme=github-dark-blue&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiseldev-sudo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="55%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiseldev-sudo&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" /> </br>
 </div>
 
 <div align="center">
