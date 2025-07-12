@@ -22,6 +22,9 @@ jobs:
           github_user_name: kaiseldev-sudo
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: "#ffffff"
+          color_dots: "#999999"
+          background_color: "transparent"
 
       - name: List dist contents
         run: ls -la dist
