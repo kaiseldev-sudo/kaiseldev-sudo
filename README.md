@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jayson</h1>
-<h3 align="left">A passionate frontend developer from the Philippines</h3>
+<h3 align="left">A full-stack web developer with 3 years of experience, driven by curiosity. I'm currently seeking new opportunities, to showcase my expertise while actively building personal projects.</h3>
 
 - 🔭 I’m currently working on **Wearship**
 
