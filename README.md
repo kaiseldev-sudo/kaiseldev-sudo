@@ -24,7 +24,7 @@
 
 👨‍💻 All of my projects are available at [https://jaysonreales.vercel.app/](https://jaysonreales.vercel.app/)
 
-💬 Ask me about **react, php, mysql, web development**
+💬 Ask me about **web development**
 
 📫 How to reach me **jaysonreales0@gmail.com**
 
