@@ -18,7 +18,7 @@
 
 </div>
 
-🔭 I’m currently working on **Wearship**
+🔭 I’m currently working on <a href="https://github.com/kaiseldev-sudo/wearship">**Wearship**</a>
 
 🌱 I’m currently learning **ReactJS, Express, NodeJS, Solidity**
 
